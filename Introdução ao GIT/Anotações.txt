@@ -1,0 +1,9 @@
+Alguns comandos
+git init
+git add
+git commit
+
+-a mostra arquivos ocultos
+extenção md - markdown
+
+O Git Bash é um terminal extendido para otimizar o uso do GIT.
